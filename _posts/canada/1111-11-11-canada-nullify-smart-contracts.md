@@ -7,10 +7,12 @@ category: canada
 comments: true
 ---
 
-# Page in progress, stay tuned!
+Smart contracts can currently be nullified. Currently smart contracts are not recognized under Canadian Law, and thus transactions done under them deemed illegitimate can be nullified.
 
-Sources
+#### Source: 
+- [Article: Ontario Lays a Foundation for Enforceable Smart Contracts](http://www.slaw.ca/2017/11/27/beyond-the-bitcoin-crash-ontario-law-lays-a-foundation-for-enforceable-smart-contracts/)
+
+
 -- 
-- 
 
-| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-suggested-readings.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-suggested-readings.html)** |
