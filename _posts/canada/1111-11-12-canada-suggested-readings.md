@@ -11,7 +11,6 @@ comments: true
 
 Sources 
 -- 
-- 
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-nullify-smart-contracts.html)** |
