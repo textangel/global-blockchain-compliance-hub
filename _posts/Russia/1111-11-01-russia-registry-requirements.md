@@ -1,4 +1,3 @@
-
 ---
 layout: post
 date: 0016-12-01
@@ -197,5 +196,8 @@ Company seals are no longer a legal requirement in Russia following a change in 
   - [Corporate Governance Code (approved by the decision of the Board of Directors of the Bank of Russia on  21 April 2014)](http://cbr.ru/Eng/sbrfr/files/Corporate_Governance_Code.pdf)
 
   - [Tax Code of Russia](https://www.nalog.ru/eng/tax_legislation/tax_code_of_russia/)
+
+
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-team-member-requirements.html)** |
 
 
